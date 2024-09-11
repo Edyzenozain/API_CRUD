@@ -3,5 +3,5 @@ export class ActualizarProductoDto{
     stock?: number;
     precio?: number;
     estado?:number
-    userId?: number;
+    usuariosId?: number;
 }
