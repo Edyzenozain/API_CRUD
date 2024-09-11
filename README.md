@@ -126,14 +126,4 @@ TypeOrmModule.forRoot({
 }),
 ```
 
-## Contribución
-
-Para contribuir, por favor realiza un fork del repositorio, crea una nueva rama con tus cambios y haz un pull request.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
-```
-Este `README.md` cubre los aspectos principales de tu proyecto, incluidos los módulos, las entidades, los servicios, los controladores y los endpoints disponibles. También proporciona instrucciones de instalación y ejecución.
-
 
